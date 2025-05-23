@@ -46,4 +46,3 @@ El dataset es de carácter sintético pero es consistente en su patrón de medic
     |Green  |45-90° | 60-90% | 50-80%|
     |Purple | 270-330°|  50-80%  |30-60%|
     |Black | 0-30°|  30-60%  |10-40%|
-
