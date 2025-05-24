@@ -1,0 +1,36 @@
+************METER LO DEL README
+
+PARTE 1: ANÁLISIS DE LA BASE DE DATOS
+
+1. Descripción de las columnas de la base de datos
+
+La base de datos elegida contempla una serie de variables de las paltas, tres de las cuales son independientes (peso, tamaño y color) y otra (densidad) depende del peso y del tamaño. Todas estas variables son continuas.
+
+2. Análisis de correlaciones
+
+***********CALCULO QUE ACÁ HABRÁ QUE HACER LOS GRÁFICOS
+
+3. Análisis de factibilidad
+
+La base de datos es adecuada para entrenar una red neuronal de clasificación, ya que no contiene valores atípicos.
+
+Entrenaremos la red para que pueda predecir si una palta se puede considerar lista para comer o no según su grado de madurez.
+
+4. Datos atípicos y limpieza de datos
+
+Como se mencionó antes, no hay datos atípicos.
+
+5. Transformaciones preliminares
+
+*********EXPLICAR NORMALIZACIÓN Y TODO ESO
+
+
+
+PARTE 2: DESARROLLO DE LA RED NEURONAL
+
+1. Arquitectura de la red
+
+- Dibujo de la arquitectura
+- Cantidad de capas
+- Cantidad de neuronas
+- Función de activación para cada capa
