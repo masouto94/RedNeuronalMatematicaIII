@@ -26,6 +26,14 @@ Madurez: categórica
 - Correlaciones negativas: todas, excepto tamaño y madurez.
 - Firmeza, sonido y tamaño son más de 0,8 (en módulo).
 
+Tomamos las siguientes variables:
+- Firmeza: alta correlación negativa.
+- Tono, saturación y brillo: las tres juntas conforman el color. Por sí solas no tienen valor para nuestro análisis (dado que no representan nada en el mundo real), pero juntas sí.
+- Sonido en decibeles: es la variable que tiene la correlación más alta.
+- Densidad: tomamos esta variable (calculada como peso/tamaño) y no las variables de peso y tamaño (a pesar de que estas últimas por sí mismas tengan más correlación), porque la densidad permite comparar paltas de distinto peso y tamaño.
+
+Nos llamó la atención la alta correlación negativa entre el sonido (medido en decibeles a través de un decibelímetro) y la madurez de la palta; a diferencia de la firmeza, variable con una correlación muy similar, pero que es de "sentido común" que se vincula a la madurez (a mayor firmeza, menor madurez y viceversa).
+
 
 3. Análisis de factibilidad
 
